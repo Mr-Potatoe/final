@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="c_a7Tc8WCFElp74eenZB">
+    <mxGraphModel dx="1615" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1871.0000000000005" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-104" value="Hardware Components" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="650" width="222" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1153" y="779.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-107" value="Microcontroller Module" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="860" width="226" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2763" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-111" value="Data Transmission Module" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="880" width="226" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="923" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="923" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-112" value="Sensors Module" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="850" width="226" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="780" as="targetPoint" />
+            <mxPoint x="920" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1276" y="780" />
+              <mxPoint x="1276" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="930" as="targetPoint" />
+            <mxPoint x="619.49" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-122" value="Input: Environmental data - temperature and humidity" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="960" width="259" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UiN3DCE-VjYuGpn7yc6w-123" target="UiN3DCE-VjYuGpn7yc6w-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-123" value="Process: Measure temperature and humidity" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="798" y="960" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="930" as="targetPoint" />
+            <mxPoint x="1222.2524390243902" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-124" value="Output: Temperature and humidity readings" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="960" width="243" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="930" as="sourcePoint" />
+            <mxPoint x="1220" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="940" as="targetPoint" />
+            <mxPoint x="1561" y="970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1863" y="969.9999999999998" as="sourcePoint" />
+            <mxPoint x="1863" y="908" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2160" y="940" as="targetPoint" />
+            <mxPoint x="2162.2524390243902" y="970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="940" as="sourcePoint" />
+            <mxPoint x="2160" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-136" value="Input: Sensor readings - temperature and humidity" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="970" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-137" value="Process: Calculate heat index using PAGASA algorithm" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1753" y="970" width="228" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-138" value="Output: Heat index data sent to server" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="970" width="235" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="940" as="targetPoint" />
+            <mxPoint x="2460.536" y="969.934" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UiN3DCE-VjYuGpn7yc6w-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2763" y="970" as="sourcePoint" />
+            <mxPoint x="2763" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3060" y="940" as="targetPoint" />
+            <mxPoint x="3062.2524390243902" y="970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2460" y="940" as="sourcePoint" />
+            <mxPoint x="3060" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-167" value="Input: Heat index and sensor data" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="970" width="217" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-168" value="Process: Transmit data wirelessly to server" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2652.5" y="970" width="221" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UiN3DCE-VjYuGpn7yc6w-169" value="Output: Data packets received by server" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="970" width="213" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
